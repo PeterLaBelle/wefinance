@@ -1,2 +1,8 @@
 mountpoints:
   /: https://aftia.sharepoint.com/sites/devPete/Shared%20Documents/myfsiforms
+
+mountpoints:
+  /:
+    url: https://author-p8755-e1690802.adobeaemcloud.com/bin/franklin.delivery/PeterLaBelle/aem-boilerplate-forms/main
+    type: "markup"
+    suffix: ".html"
