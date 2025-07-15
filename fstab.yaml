@@ -3,6 +3,6 @@ mountpoints:
 
 mountpoints:
   /:
-    url: https://author-p8755-e1690802.adobeaemcloud.com/bin/franklin.delivery/PeterLaBelle/aem-boilerplate-forms/main
+    url: https://author-p8755-e1690802.adobeaemcloud.com/bin/franklin.delivery/PeterLaBelle/wefinance/main
     type: "markup"
     suffix: ".html"
