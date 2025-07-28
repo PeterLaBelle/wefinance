@@ -14,9 +14,6 @@
           "...": "./_image.json#/definitions"
         },
         {
-          "...": "./_form.json#/models"
-        }, 
-        {
           "...": "./_button.json#/definitions"
         }
       ]
