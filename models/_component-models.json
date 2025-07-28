@@ -12,9 +12,6 @@
     "...": "./_button.json#/models"
   },
   {
-    "...": "./_form.json#/models"
-  },  
-  {
     "...": "./_section.json#/models"
   },
   {
